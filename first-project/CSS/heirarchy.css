@@ -1,0 +1,13 @@
+.parent {
+    width: 1000px; 
+    height: 1000px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.child {
+    height: 200px; 
+    width: 333px;
+    background-color: rgb(10, 240, 117);
+    border: 2px solid rgb(34, 150, 55);
+}

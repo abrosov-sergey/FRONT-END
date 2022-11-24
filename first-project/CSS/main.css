@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-size: 40;
+  font-style: italic;
+}
+
+.heading {
+  color: purple;
+}

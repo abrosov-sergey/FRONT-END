@@ -1,0 +1,14 @@
+html {
+  font-size: 20px;
+}
+
+div {
+  font-size: 200px;
+}
+
+div p {
+  font-size: 1rem;
+}
+
+/* em для предка
+rem для всей страницы html */
